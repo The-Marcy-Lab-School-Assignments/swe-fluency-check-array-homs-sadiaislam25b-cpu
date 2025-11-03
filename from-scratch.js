@@ -66,6 +66,10 @@ const sampleUsers = [
 
 // Problem 6 // .foreach
 const printUserNamesAndScores = (users) => {
+  users.forEach(user => {
+    console.log(`${user.name} scored ${user.score} points.`);
+  }
+    
 
 };
 
