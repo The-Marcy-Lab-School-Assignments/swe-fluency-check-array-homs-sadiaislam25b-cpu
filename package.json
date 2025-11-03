@@ -1,0 +1,20 @@
+{
+  "name": "swe-fluency-check-array-homs-sadiaislam25b-cpu",
+  "version": "1.0.0",
+  "description": "For all of the following problems, use an array higher order method to solve the problem. You should not use any for or while loops!",
+  "main": "from-scratch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Marcy-Lab-School-Assignments/swe-fluency-check-array-homs-sadiaislam25b-cpu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Marcy-Lab-School-Assignments/swe-fluency-check-array-homs-sadiaislam25b-cpu/issues"
+  },
+  "homepage": "https://github.com/The-Marcy-Lab-School-Assignments/swe-fluency-check-array-homs-sadiaislam25b-cpu#readme"
+}
